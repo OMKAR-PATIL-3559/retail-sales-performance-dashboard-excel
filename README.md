@@ -32,6 +32,9 @@ The dataset includes:
 - Monthly sales trends
 - Interactive slicers for filtering data
 
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 ## Learning Outcome
 - Hands-on experience with real-world sales data
 - Strong understanding of Excel data analysis
